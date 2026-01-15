@@ -1,0 +1,40 @@
+Not used anymore. Just used for some testing.
+
+[
+  {
+    "resultName": "NoWin_Mixed",
+    "finalStopStripIndices": [5, 15, 25, 35, 45],
+		"paylinesHit": [],
+    "winValue": 0
+  },
+  {
+    "resultName": "SingleWin_P1_Plum",
+    "finalStopStripIndices": [4, 15, 4, 12, 31],
+    "paylinesHit": ["P1: 3x Plum"],
+    "winValue": 10
+  },
+	{
+    "resultName": "GrandPrize_3xSeven",
+    "finalStopStripIndices": [37, 37, 37, 5, 20], 
+    "paylinesHit": ["P1: 3x 7 (Big Win!)"],
+    "winValue": 1500
+  },
+	{
+    "resultName": "MidWin_3xBell_P2",
+    "finalStopStripIndices": [7, 7, 7, 10, 30],
+    "paylinesHit": ["P2: 3x Bell"],
+    "winValue": 250
+  },
+	{
+    "resultName": "MegaWin_4xBell_P4",
+    "finalStopStripIndices": [7, 6, 5, 6, 7],
+    "paylinesHit": ["P4: 4x Bell (Excellent Payout)"],
+    "winValue": 1000
+  },
+  {
+    "resultName": "CommonWin_5xOrange_P2",
+    "finalStopStripIndices": [0, 0, 0, 0, 0],
+    "paylinesHit": ["P2: 5x Orange"],
+    "winValue": 20
+  }
+]

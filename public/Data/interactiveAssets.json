@@ -1,0 +1,27 @@
+{
+	"spin": {
+			"type": "sprite",
+			"asset": "/assets/spinPicture.png",
+			"color": "0x00ff00",
+			"width": 240,
+			"height": 210,
+			"x": -130,
+			"y": -280
+	},
+	"betPlus": {
+			"type": "sprite",
+			"asset": "/assets/plusPicture.png",
+			"width": 120,
+			"height": 60,
+			"x": 90,
+			"y": -90 
+	},
+	"betMinus": {
+			"type": "sprite",
+			"asset": "/assets/minusPicture.png",
+			"width": 120,
+			"height": 60,
+			"x": -150,
+			"y": -90 
+	}
+}

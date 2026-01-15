@@ -1,0 +1,49 @@
+{
+	"symbolDefinitions":[
+		{
+			"id": "orange",
+			"asset": "/assets/orangePicture.png",
+			"value" : 3
+		},
+		{
+			"id": "plum",
+			"asset": "/assets/plumPicture.png",
+			"value" : 2
+		},
+		{
+			"id": "cherry",
+			"asset": "/assets/cherryPicture.png",
+			"value" : 10
+		},
+		{
+			"id": "melon",
+			"asset": "/assets/melonPicture.png",
+			"value" : 15
+		},
+		{
+			"id": "bell",
+			"asset": "/assets/bellPicture.png",
+			"value" : 50
+		},
+		{
+			"id": "seven",
+			"asset": "/assets/sevenPicture.png",
+			"value" : 500
+		}
+		],
+		"reelStrip": [
+			"orange","plum","cherry","melon","plum","orange","bell","cherry","orange","plum","melon","orange","plum","cherry","orange","bell","orange","plum","cherry","orange","seven","plum","melon","orange","cherry",
+			"plum","orange","cherry","melon","orange","plum","bell","orange","cherry","melon","plum","orange","cherry","orange","melon","plum","orange","cherry","bell","orange","plum","orange","seven","cherry","plum",
+			"cherry","orange","plum","melon","cherry","orange","plum","bell","orange","melon","plum","orange","cherry","plum","orange","melon","plum","orange","cherry","bell","orange","plum","orange","seven","orange",
+			"melon","plum","orange","cherry","bell","plum","orange","cherry","orange","melon","plum","orange","cherry","orange","plum","melon","orange","cherry","plum","bell","orange","plum","orange","seven","cherry",
+			"orange","cherry","plum","melon","orange","bell","plum","orange","cherry","plum","orange","melon","plum","orange","cherry","plum","orange","bell","orange","plum","cherry","orange","seven","plum","melon"
+		],
+		"slotConfig": {
+			"reelCount": 5,
+			"rowCount": 3,
+			"symbolSize": 150,
+			"reelPadding": 20
+		}
+
+
+}
